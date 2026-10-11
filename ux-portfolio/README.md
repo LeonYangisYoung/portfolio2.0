@@ -1,5 +1,6 @@
-# Zhizhong Yang Portfolio
-
+# Zhizhong Yang Portfolio2.0
 Open `index.html` in a browser to preview the site.
 
-Before publishing, replace the three project titles, descriptions, placeholder artwork, `your-email@example.com`, and the LinkedIn/GitHub URLs with your actual materials. Each project should get a dedicated page using the three-part case-study structure: context, process, and outcome.
+I am a Uoft student and interested in front-end development, it's my 3rd online website, and i will keep maintain and develop this one.
+By using CODEX, I create this advance website.
+it is not the final version.
